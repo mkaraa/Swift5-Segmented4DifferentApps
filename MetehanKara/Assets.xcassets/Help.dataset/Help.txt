@@ -1,0 +1,17 @@
+var teamPlayers = [String]()
+
+func populateData(team: String) {
+        
+        if let path = Bundle.main.path(forResource: "players", ofType: "plist") {
+            if let dictArray = NSArray(contentsOfFile: path) {
+                for item in dictArray {
+                    if let dict = item as? NSDictionary {
+                        if (dict.allKeys[0] as! String) == team {
+                            teamPlayers.append(dict.allValues[0] as! String)
+                        }
+                    }
+                }
+            }
+        }
+        
+    }

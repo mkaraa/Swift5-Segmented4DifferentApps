@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fenerbahce</key>
+		<string>Volkan Demirel</string>
+	</dict>
+	<dict>
+		<key>besiktas</key>
+		<string>Tolga Zengin</string>
+	</dict>
+	<dict>
+		<key>galatasaray</key>
+		<string>Fernando Muslera</string>
+	</dict>
+	<dict>
+		<key>fenerbahce</key>
+		<string>Jailson</string>
+	</dict>
+	<dict>
+		<key>besiktas</key>
+		<string>Adriano</string>
+	</dict>
+	<dict>
+		<key>galatasaray</key>
+		<string>Selcuk Inan</string>
+	</dict>
+	<dict>
+		<key>besiktas</key>
+		<string>Pepe</string>
+	</dict>
+	<dict>
+		<key>galatasaray</key>
+		<string>Maicon</string>
+	</dict>
+	<dict>
+		<key>galatasaray</key>
+		<string>Yuto Nagatomo</string>
+	</dict>
+	<dict>
+		<key>fenerbahce</key>
+		<string>Mehmet Topal</string>
+	</dict>
+</array>
+</plist>
